@@ -1,0 +1,136 @@
+body{
+    margin: 0;
+}
+.hero{
+    background-color: #EEF7FF;
+    border: 1px solid rgb(53, 52, 52);
+    border-radius: 50px;
+    height: 70vh;   
+    width: 30%;
+    position: absolute;
+    bottom: 5%;
+    left: 63%;
+}
+.hero:hover{
+    background-color:#d9e4ca ;
+}
+
+#sect-one{
+    background-color: #91cbd6;
+    height: 100vh;
+    padding: 30px;
+}
+#resume-section{
+    background-color: #FFE8C8;
+    height: 90vh;
+}
+.profile-photo{
+    height: 200px;
+    margin-left: 43%;
+    margin-top: 2%;
+}
+#skills{
+    background-color:#E1F7F5 ;
+    height: 100vh;
+}
+#about-me{
+    background-color:#F0EBE3 ;
+    height: 100vh;
+}
+#contact-me{
+    background-color: #91cbd6;
+    padding: 100px;
+}
+.head-text{
+    font-size: 104px;
+    font-weight: 800;
+    font-family: serif;
+    letter-spacing: 1.9px;
+    color: rgb(40, 39, 39);
+}
+.job{
+    font-size: 27px;
+    font-weight: 700;
+    font-family: sans-serif;
+    line-height: 1.8;
+    word-spacing: 2.2px;
+    letter-spacing: 1.9px;
+    color: #222831;
+}
+.hero-sect{
+    margin-left: 20px;
+    padding-right: 50px;
+    
+}
+.navbar-container{
+    display: flex;
+    gap: 140px;
+    margin-left: 150px;
+   
+}
+.navbar{
+    list-style-type: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color:#1C1678;
+}
+nav{
+    padding: 8px;
+    background-color:#d9e4ca;
+}
+h3, .projects{
+    font-family: serif;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 24px;
+    font-family: serif;
+    font-weight: 700;
+    background-color:#d9e4ca ;
+    letter-spacing: 1.8;
+    
+}
+input:hover{
+    background-color: #4b82dc;
+    color: white;
+}
+.profile-text{
+    text-align: center;
+    font-size: 44px;
+    font-family: serif;
+    margin-top: 0px;
+    color:#4b82dc ;
+}
+.footer{
+    display: flex;
+    gap: 50px;
+    
+}
+.footer-links{
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 17px;
+    padding-bottom: 10%;
+    
+}
+.hero-text{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: serif;
+}
+
+.social{
+    color: black;
+}
+.main-footer{
+    padding-left: 30%;
+}
+.hero-full{
+    padding-left: 50px;
+}
