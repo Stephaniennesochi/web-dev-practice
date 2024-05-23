@@ -63,13 +63,13 @@ body{
 }
 .navbar-container{
     display: flex;
-    gap: 140px;
+    gap: 150px;
     margin-left: 150px;
    
 }
 .navbar{
     list-style-type: none;
-    font-size: 20px;
+    font-size: 18px;
     text-transform: uppercase;
     font-family: sans-serif;
 }
@@ -166,4 +166,6 @@ li{
 .sub-head{
     font-family: serif;
     font-size: 27px;
+}
+@media (min-width: 768px){
 }
